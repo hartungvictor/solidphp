@@ -1,6 +1,6 @@
 <?php
 
-interface Assistiver {
+interface Assistivel {
 
 
     public function assistir ();
